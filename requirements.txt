@@ -1,4 +1,8 @@
 python-dotenv
+openai
+langchain-openai
+langgraph
+tiktoken
 google-generativeai
 langchain
 PyPDF2
