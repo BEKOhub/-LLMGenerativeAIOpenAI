@@ -5,6 +5,6 @@ import os
 
 # %%
 load_dotenv()
-GOOGLE_AI_KEY = os.getenv("GOOGLE_API_KEY")
+GOOGLE_AI_KEY = os.getenv("OPENAI_API_KEY")
 print(GOOGLE_AI_KEY) 
 # %%
